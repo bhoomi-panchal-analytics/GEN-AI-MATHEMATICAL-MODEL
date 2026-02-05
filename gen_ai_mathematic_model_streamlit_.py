@@ -7,12 +7,12 @@ Original file is located at
     https://colab.research.google.com/drive/1pvx1L7VwAWTZ-D8EDzd58OUgiOcgbZq2
 """
 
-import streamlit as st
-import sympy as sp
-import numpy as np
-from scipy.fft import fft
-from scipy.integrate import quad
-from sympy import Matrix, symbols, diff, integrate, laplace_transform
+ ###import streamlit as st
+ ##import sympy as sp
+##import numpy as np
+##from scipy.fft import fft
+##from scipy.integrate import quad
+##from sympy import Matrix, symbols, diff, integrate, laplace_transform
 
 st.set_page_config(page_title="Advanced Math Solver", layout="wide")
 
